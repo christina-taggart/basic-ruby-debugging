@@ -70,3 +70,28 @@ nil
 >> print var5.inspect
 {:cats=>10, :dogs=>2, :birds=>1}nil
 ```
+
+## Release 2
+```ruby
+>> Math.sqrt(1282)
+35.805027579936315
+>> Time.now
+2014-01-06 18:36:52 -0800
+>> Array.new(10, 'bee')
+[
+    [0] "bee",
+    [1] "bee",
+    [2] "bee",
+    [3] "bee",
+    [4] "bee",
+    [5] "bee",
+    [6] "bee",
+    [7] "bee",
+    [8] "bee",
+    [9] "bee"
+]
+>> include Math
+Object < BasicObject
+>> sqrt 64
+8.0
+```
