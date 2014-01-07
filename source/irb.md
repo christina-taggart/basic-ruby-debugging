@@ -48,3 +48,10 @@ NoMethodError: undefined method `uppercase' for "Henry":String
     [0] "HENRY",
     [1] "PATRICK"
 ]
+
+>> include Math
+Object < BasicObject
+>> sqrt 64
+8.0
+>> Time.now
+2014-01-06 18:29:42 -0800
