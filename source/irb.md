@@ -39,3 +39,10 @@ false
 ```
 
 # release 2
+```
+>> include Math
+Object < BasicObject
+>> sqrt 64
+8.0
+>>
+```
